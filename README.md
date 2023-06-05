@@ -1,8 +1,8 @@
-### Olá! Me chamo Rafaela Perruci.
+### Hi there! I'm Rafaela Perruci.
 
 
 -  Dev student.
--  Pronouns: ela/dela 
+-  Pronouns: ela/dela - she/her
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPerruci97&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
